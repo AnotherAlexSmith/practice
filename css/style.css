@@ -1,0 +1,151 @@
+.wrapper
+{
+    background-image: url(../img/bg.png);
+    height: 600px;
+}
+
+.header
+{
+    width: 100%;
+    height: 80px;
+}
+
+.header-top
+{
+    width: 100%;
+    height: 63px;
+    background-color: #e53f33;
+}
+
+.header-bottom
+{
+    position: relative;
+    width: 100%;
+    height: 17px;
+    background-image: url(../img/header-bottom.png);
+    background-repeat: repeat-x;
+    z-index: 10;
+}
+
+.header-content
+{
+    width: 980px;
+    margin-left: 205px;
+    /*margin: auto auto;*/
+    padding-top: 20px;
+}
+
+.header-logo
+{
+    float: left;
+}
+
+.header-navigation
+{
+    width: 453px;
+    float: left;
+    margin-left: 40px;
+    font-family: arial, verdana, sans-serif;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 7px;
+}
+
+.header-navigation ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+.header-navigation ul li
+{
+    display: inline;
+    height: 30px;
+    float: left;
+    list-style: none;
+    padding-left: 23px;
+}
+
+.header-navigation li a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-navigation li a:hover
+{
+    background-image: url(../img/over-state.png);
+}
+
+.header-social
+{
+    width: 312px;
+    height: 30px;
+    float: left;
+    margin-top: 3px;
+}
+
+.header-social-icons
+{
+    background-image: url(../img/social-holder.png);
+    background-repeat: no-repeat;
+    margin-left: 251px;
+    padding: 6px 15px;
+}
+
+.pre-content
+{
+    position: relative;
+    width: 100%;
+    height: 182px;
+    background-color: #fff;
+    margin-top: -17px;
+    z-index: 1;
+}
+
+.pre-content-wrapper
+{
+    width: 980px;
+    margin-left: 205px;
+}
+
+.pre-content-text
+{
+    padding-top: 56px;
+    width: 896px;
+    float: left;
+}
+
+.wrapper h1
+{
+    font-family: 'Lucida Fax', sans-serif;
+    font-size: 34px;
+}
+
+.pre-content-text .text
+{
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.pre-content-text .red
+{
+    font-family: arial, sans-serif;
+    font-size: 11.5px;
+    color: #e53e32;
+}
+
+.pre-content-ribbon
+{
+    float: left;
+}
+
+.content
+{
+    width: 980px;
+    margin: auto auto;
+}
