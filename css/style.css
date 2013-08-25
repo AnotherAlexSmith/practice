@@ -42,16 +42,18 @@
 
 .header-navigation
 {
-    width: 453px;
+    width: 454px;
     float: left;
-    margin-left: 40px;
+    margin-left: 53px;
+    margin-top: 2px;
     font-family: arial, verdana, sans-serif;
-    color: white;
-    font-size: 14px;
+    font-size: 13px;
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    text-decoration: none;
     font-weight: bold;
     font-style: italic;
     text-transform: uppercase;
-    margin-top: 7px;
 }
 
 .header-navigation ul
@@ -63,10 +65,12 @@
 .header-navigation ul li
 {
     display: inline;
-    height: 30px;
+    /*height: 30px;*/
     float: left;
     list-style: none;
-    padding-left: 23px;
+    /*padding-left: 23px;*/
+    padding: 6px 11px;
+    letter-spacing: 1px;
 }
 
 .header-navigation li a
@@ -75,14 +79,16 @@
     text-decoration: none;
 }
 
-.header-navigation li a:hover
+.header-navigation .active
 {
-    background-image: url(../img/over-state.png);
+    background-color: #d83127;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 0 0.1em 7px rgba(255,255,255,0.15);
 }
-
 .header-social
 {
-    width: 312px;
+    width: 294px;
     height: 30px;
     float: left;
     margin-top: 3px;
@@ -90,10 +96,15 @@
 
 .header-social-icons
 {
-    background-image: url(../img/social-holder.png);
-    background-repeat: no-repeat;
-    margin-left: 251px;
-    padding: 6px 15px;
+    /*background-image: url(../img/social-holder.png);*/
+    /*background-repeat: no-repeat;*/
+    background-color: #d83127;
+    margin-left: 240px;
+    padding: 5px 13px 3px 13px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 0 0.1em 7px rgba(255,255,255,0.15);
+    /*box-shadow: 0.07em 0.05em 10px rgba(0,0,0,0.5);*/
 }
 
 .pre-content
@@ -114,7 +125,7 @@
 
 .pre-content-text
 {
-    padding-top: 56px;
+    padding-top: 62px;
     width: 896px;
     float: left;
 }
