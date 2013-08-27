@@ -5,7 +5,7 @@
     <ignored path="практика.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="b94458b7-8db6-422b-93d8-a05472b56ee6" time="1377590573545" ignored="false" />
-    <file path="/style.css" changelist="b94458b7-8db6-422b-93d8-a05472b56ee6" time="1377523414839" ignored="false" />
+    <file path="/style.css" changelist="b94458b7-8db6-422b-93d8-a05472b56ee6" time="1377594207585" ignored="false" />
     <file path="/navi.js" changelist="b94458b7-8db6-422b-93d8-a05472b56ee6" time="1377524861669" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="22" selection-start="468" selection-end="468" vertical-scroll-proportion="0.75757575">
+            <state line="111" column="29" selection-start="1800" selection-end="1800" vertical-scroll-proportion="0.6660448">
               <folding />
             </state>
           </provider>
@@ -612,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="22" selection-start="468" selection-end="468" vertical-scroll-proportion="0.75757575">
+        <state line="111" column="29" selection-start="1800" selection-end="1800" vertical-scroll-proportion="0.6660448">
           <folding />
         </state>
       </provider>

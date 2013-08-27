@@ -81,8 +81,9 @@
 .header-navigation .active
 {
     background-color: #d83127;
-    -moz-border-radius: 10px;
+    border-radius: 10px;
     -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
     box-shadow: 0 0.1em 7px rgba(255,255,255,0.15);
 }
 
@@ -106,8 +107,9 @@
     background-color: #d83127;
     margin-left: 240px;
     padding: 5px 13px 3px 13px;
-    -moz-border-radius: 10px;
+    border-radius: 10px;
     -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
     box-shadow: 0 0.1em 7px rgba(255,255,255,0.15);
     /*box-shadow: 0.07em 0.05em 10px rgba(0,0,0,0.5);*/
 }
