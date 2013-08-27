@@ -30,8 +30,7 @@
 .header-content
 {
     width: 980px;
-    margin-left: 205px;
-    /*margin: auto auto;*/
+    margin: auto auto;
     padding-top: 20px;
 }
 
