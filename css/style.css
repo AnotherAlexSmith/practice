@@ -126,7 +126,7 @@
 .pre-content-wrapper
 {
     width: 980px;
-    margin-left: 205px;
+    margin: auto;
 }
 
 .pre-content-text
@@ -180,7 +180,7 @@
 .content
 {
     width: 980px;
-    margin-left: 205px;
+    margin: auto;
 }
 
 .projects
@@ -319,7 +319,7 @@
 .footer-columns
 {
     width: 980px;
-    margin-left: 205px;
+    margin: auto;
     height: 292px;
 }
 
