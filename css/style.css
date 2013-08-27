@@ -64,10 +64,8 @@
 .header-navigation ul li
 {
     display: inline;
-    /*height: 30px;*/
     float: left;
     list-style: none;
-    /*padding-left: 23px;*/
     padding: 6px 11px;
     letter-spacing: 1px;
 }
@@ -102,8 +100,6 @@
 
 .header-social-icons
 {
-    /*background-image: url(../img/social-holder.png);*/
-    /*background-repeat: no-repeat;*/
     background-color: #d83127;
     margin-left: 240px;
     padding: 5px 13px 3px 13px;
@@ -111,7 +107,6 @@
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     box-shadow: 0 0.1em 7px rgba(255,255,255,0.15);
-    /*box-shadow: 0.07em 0.05em 10px rgba(0,0,0,0.5);*/
 }
 
 .pre-content
@@ -313,8 +308,8 @@
 .footer-line
 {
     width: 100%;
-    border-top: 1px dashed #515151; /* Параметры линии */
-    height: 1px; /* Высота блока */
+    border-top: 1px dashed #515151;
+    height: 1px;
 }
 
 .footer-columns
